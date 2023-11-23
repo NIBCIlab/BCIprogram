@@ -16,4 +16,4 @@ RemoteMI.exe (https://github.com/NIBCIlab/BCIprogram)
 
 For detailed explanations of each BCI system, please refer to the User Manual.
 
-If you want to use Integeration BCI program, please check this https://github.com/NIBCI/IntegrationBCI
+If you want to use Integeration BCI program, please check this https://github.com/NIBCI/Non-invasive-BCIplatform
